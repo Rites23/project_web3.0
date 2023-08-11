@@ -2,7 +2,7 @@
 
 Krypt - Web 3.0 Blockchain Application
 
-Using Web 3.0 methodologies, Solidity and Metamask I built a my first real Web 3.0 Application - from start to finish.
+Using Web 3.0 methodologies, Solidity and Metamask I built my first real Web 3.0 Application - from start to finish.
 
 I connected a regular React.js application to the blockchain and paired it to my Ethereum wallet using MetaMask.
 
